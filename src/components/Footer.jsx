@@ -5,11 +5,6 @@ import { FaTwitter } from "react-icons/fa";
 import { FaFacebookF } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa6";
 import { FaGithub } from "react-icons/fa6";
-import { RiVisaLine } from "react-icons/ri";
-import { FaApplePay } from "react-icons/fa";
-import { FaGooglePay } from "react-icons/fa";
-import { RiMastercardFill } from "react-icons/ri";
-import { MdOutlineEmail } from "react-icons/md";
 import Visa from "../assets/img/Visa.png"
 import Mastercard from "../assets/img/Mastercard.png"
 import Paypal from "../assets/img/Paypal.png"
@@ -17,24 +12,11 @@ import Apple from "../assets/img/Pay.png"
 import GPay from "../assets/img/G Pay.png"
 
 
-
-
-
-
-
-
-
-
 function Footer() {
   return (
     <>
       <div className="w-full bg-gray-200  h-auto py-8 px-5 items-center">
-
-
         {/*=================> footer__list__items <======================*/}
-
-
-
         <div className="max-w-[1240px] m-auto">
           <div className='grid grid-cols-12  gap-6  border-b-[1px] border-gray-300 pb-5'>
             <div className='col-span-12 lg:col-span-4  '>
