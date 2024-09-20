@@ -15,8 +15,7 @@ import GPay from "../assets/img/G Pay.png"
 function Footer() {
   return (
     <>
-      <div className="w-full bg-gray-200  h-auto py-8 px-5 items-center">
-        {/*=================> footer__list__items <======================*/}
+      <div className="w-full bg-gray-200 mt-8  h-auto py-8 px-5 items-center">
         <div className="max-w-[1240px] m-auto">
           <div className='grid grid-cols-12  gap-6  border-b-[1px] border-gray-300 pb-5'>
             <div className='col-span-12 lg:col-span-4  '>
